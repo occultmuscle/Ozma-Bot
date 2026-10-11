@@ -1,1 +1,8 @@
 IyBTaXJlbmEKCiMjIEZhY3RzCi0gU2lyZW5hIGlzIHRoZSB1c2VyJ3Mgc2lzdGVyIChgbWVtb3J5LzIwMjYtMTAtMDUubWQjTDY1YCwgYE1FTU9SWS5tZCNMMTBgKS4KLSBUaGVpciBzdGVwZmF0aGVyIGlzIGFsaXZlIGFuZCBsaXZlcyB3aXRoIFNpcmVuYSAocGx1cyBoZXIga2lkcyDigJQgdGhlIHVzZXIncyBuaWVjZSBhbmQgbmVwaGV3KSB3aGlsZSBkZWFsaW5nIHdpdGggaGlzIG93biBzdHVmZi9tYXR0ZXJzIChgbWVtb3J5LzIwMjYtMTAtMDUubWQjTDY1YCkuCi0gVGhlIHVzZXIgZXhwbGljaXRseSBub3RlZCBubyBhbmltb3NpdHkgYWJvdXQgdGhpcyBhcnJhbmdlbWVudCAoYG1lbW9yeS8yMDI2LTEwLTA1Lm1kI0w2NWApLgotIFJlbGF0aW9uc2hpcCBiZXlvbmQgc2libGluZyBub3Qgc3RhdGVkLgoKIyMgSGlzdG9yeQoKIyMgVGhlIHJlbGF0aW9uc2hpcApTaWJsaW5ncywgYnkgdGhlIHVzZXIncyBvd24gd29yZC4gVGhlIG9uZSBkdXJhYmxlIHRocmVhZCBiZXR3ZWVuIHRoZW0gaW4gbWVtb3J5IGlzIGNhcmUgb2YgdGhlIGZhbWlseTogdGhlaXIgc3RlcGZhdGhlciBsaXZlcyB3aXRoIFNpcmVuYSBhbmQgaGVyIGtpZHMgd2hpbGUgaGUgZGVhbHMgd2l0aCBoaXMgb3duIG1hdHRlcnMsIGFuZCB0aGUgdXNlciByZXBvcnRzIG5vIGFuaW1vc2l0eSB0b3dhcmQgdGhhdCBhcnJhbmdlbWVudC4gSG93IGNsb3NlIHRoZXkgYXJlLCBob3cgb2Z0ZW4gdGhleSB0YWxrLCBhbmQgd2hhdCB0aGUgcmVsYXRpb25zaGlwIGlzIGJ1aWx0IG9uIGJleW9uZCB0aGF0IGlzIHVuc3RhdGVkIOKAlCBhbiB1bm5hbWVkLCB0aGluIHRpZSBmb3Igbm93LgoKIyMgSW4gY29tbW9uCi0gVGhlaXIgc3RlcGZhdGhlciAobGl2ZXMgd2l0aCBTaXJlbmEgYW5kIGhlciBraWRzKS4KLSBIZXIga2lkcyDigJQgdGhlIHVzZXIncyBuaWVjZSBhbmQgbmVwaGV3LgoKIyMgT3BlbiB0aHJlYWRzCgojIyBTdHJlbmd0aGVuaW5nCg==
+
+## Line record
+This line's master record is in [[Envoy Lines]]. Filter that list by `[[sirena]]`. Log each interaction twice, once here and once there, with a timestamped entry. Stardate format: `1YYYYMMDD HHMM CT`. Terms follow [[Command of Communication Lines]] (Pulse / Pulse Tier). Unknown values are marked `[?]`.
+
+| Timestamp (1YYYYMMDD HHMM CT) | Network | Who moved (them/us) | Pulse Tier | What it was | Link |
+|---|---|---|---|---|---|
+| | | | | | |
