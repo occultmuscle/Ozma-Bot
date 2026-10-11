@@ -1,1 +1,8 @@
 IyBDaHJpcyBGcmF6aWVyCgojIyBGYWN0cwotIEhhcyBhIG9uZS10by1vbmUgTWVzc2VuZ2VyIHRocmVhZCB3aXRoIHRoZSB1c2VyIChgbWVtb3J5LzIwMjYtMTAtMDYubWQjTDEzOWA7IGBtZW1vcnkvMjAyNi0xMC0wNy5tZCNMMTlgKS4KLSBBZnRlciB0aGUgMjAyNi0xMC0wNiBNZXNzZW5nZXIgcmVjb25uZWN0LCBoaXMgd2FzIHRoZSBvbmx5IHRocmVhZCBzdGlsbCB2aXNpYmxlIHRocm91Z2ggdGhlIGNvbm5lY3RvciDigJQgdGhlIG90aGVyIHRocmVhZHMgKGluY2x1ZGluZyBHcmFtLCBEb25uYSBTcGFyc2hvdHQsIE5hdGhhbmllbCBTcGFyc2hvdHQpIGRpZCBub3QgcmVzdXJmYWNlLgotIE5vIGV2aWRlbmNlIHN0YXRlcyB0aGUgbmF0dXJlIG9mIHRoZSByZWxhdGlvbnNoaXAgdG8gdGhlIHVzZXIuCgojIyBIaXN0b3J5Ci0gMjAyNi0xMC0wNjogaGlzIE1lc3NlbmdlciB0aHJlYWQgc3VyZmFjZWQgd2hlbiB0aGUgYXNzaXN0YW50IGNoZWNrZWQgdGhlIHVzZXIncyBNZXNzZW5nZXIgY29ubmVjdGlvbnMgZHVyaW5nIHRoZSB1bnJlc29sdmVkIE1pY2hhZWwgV2hpdGUgdGhyZWFkIGxvb2t1cCwgYW5kIHBlcnNpc3RlZCBhZnRlciBhIHJlY29ubmVjdCB0aGF0IGhpZCB0aGUgb3RoZXJzLgoKIyMgVGhlIHJlbGF0aW9uc2hpcApUaGUgdXNlciBoYXMgbm90IG5hbWVkIHdoYXQgQ2hyaXMgRnJhemllciBpcyB0byB0aGVtLiBUaGUgTWVzc2VuZ2VyIHRocmVhZCBpcyB0aGUgb25seSBzaWduYWw7IGxlYXZlIHRoZSB0aWUgdW5uYW1lZC4KCiMjIEluIGNvbW1vbgoKIyMgT3BlbiB0aHJlYWRzCgojIyBTdHJlbmd0aGVuaW5nCg==
+
+## Line record
+This line's master record is in [[Envoy Lines]]. Filter that list by `[[chris-frazier]]`. Log each interaction twice, once here and once there, with a timestamped entry. Stardate format: `1YYYYMMDD HHMM CT`. Terms follow [[Command of Communication Lines]] (Pulse / Pulse Tier). Unknown values are marked `[?]`.
+
+| Timestamp (1YYYYMMDD HHMM CT) | Network | Who moved (them/us) | Pulse Tier | What it was | Link |
+|---|---|---|---|---|---|
+| | | | | | |

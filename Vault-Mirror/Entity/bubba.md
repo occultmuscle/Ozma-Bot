@@ -1,1 +1,35 @@
-IyBCdWJiYQoKIyMgRmFjdHMKLSBUaGUgb3BzIGxvZyByZWZlcnMgdG8gQnViYmEgYXMgImhlIiAoMjAyNi0wOS0yMyAxMToxNiBlbnRyeSkuCi0gT24gMjAyNi0wOS0yMyBoZSBjb21wbGV0ZWQgOSBpbW11bml6YXRpb25zLCBpbmNsdWRpbmcgSFBWIGFuZCB0aGUgZmx1OyB0aGUgdXNlciBoYXMgaGlzIHJlY29yZHMgdG8gZmlsZSBhcyBtZWRpY2FsIHJlY29yZHMuCi0gVGhlIHVzZXIgY2FycmllcyBhIHJlbWluZGVyIHRvICJTZXQgYXBwb2ludG1lbnRzIGFmdGVyIG9jdCAyMSBmb3IgYnViYmEgc2hvdHMsIiBzbyBmdXJ0aGVyIHNob3RzIGFyZSBleHBlY3RlZC4KLSBUaGUgc2FtZSBvcHMgZW50cnkgbWVudGlvbnMgInRha2luZyBtb3RoZXIgb24gYSBzaG9wcGluZyB0cmlwIGluIEh1bnRzdmlsbGUsIiBwbGFjaW5nIEJ1YmJhIGluIHRoZSB1c2VyJ3MgZmFtaWx5LWxpZmUgY29udGV4dC4KLSBPbiAyMDI2LTA3LTA1IHRoZSB1c2VyIHNlbnQgQnViYmEgdHdvIFBDLWJ1aWxkIHNwZWNzIGluIHRoZWlyIG1lc3NhZ2UgdGhyZWFkOiBhIGJ1ZGdldCBidWlsZCAofiQzMTUg4oCUIE1TSSBCMzUwIFRvbWFoYXdrIHdpdGggQUdFU0EgMS4yLjAuNyBCSU9TIHVwZGF0ZSBmaXJzdCwgUnl6ZW4gNSA1NTAwIH4kNzUsIFJUWCAzMDUwIDhHQiB+JDI0MCwgZnJlZSBXaW5kb3dzIDExIHZpYSB0aGUgbGlua2VkIFdpbiAxMCBsaWNlbnNlKSBhbmQgYSBwcmVtaXVtIGJ1aWxkICh+JDYyNyDigJQgc2FtZSBCSU9TIHVwZGF0ZSwgUnl6ZW4gNyA1ODAwWFQgfiQyNDksIFJUWCA1MDYwIDhHQiB+JDM3OCkuIEJvdGggd2VyZSBvbmUtd2F5IHNlbmRzIGZyb20gdGhlIHVzZXI7IG5vIHJlcGxpZXMgYXJlIHJlY29yZGVkLCBzbyB3aGV0aGVyIHBhcnRzIHdlcmUgb3JkZXJlZCBvciB0aGUgYnVpbGQgaGFwcGVuZWQgaXMgdW5rbm93bi4KLSBUaGUgcGxhbiB3YXMgcmVjb3ZlcmVkIDIwMjYtMTAtMDkgYW5kIHNhdmVkIHRvIGB+L3dvcmtzcGFjZS95b3VyX2ZpbGVzL2J1YmJhL0J1YmJhX0NvbXB1dGVyX0ltcHJvdmVtZW50X1BsYW4ubWRgOyB0aGUgdXNlciBpcyBwdWxsaW5nIGZ1bmRzIHRvZ2V0aGVyIHRvIGRvIHRoZSBidWlsZCwgcm91dGVkIHRocm91Z2ggdGhlIFB1cmNoYXNlIE9yZGVycyBkZXNrIHdoZW4gcmVhZHkuCi0gTm8gZXZpZGVuY2Ugc3RhdGVzIHRoZSBuYXR1cmUgb2YgaGlzIHJlbGF0aW9uc2hpcCB0byB0aGUgdXNlciAoc29uLCBuZXBoZXcsIGdyYW5kc29uLCBvciBvdGhlcndpc2UpLgoKIyMgSGlzdG9yeQotIDIwMjYtMDctMDU6IFRoZSB1c2VyIHNlbnQgQnViYmEgdGhlIHR3byBjb21wdXRlci1idWlsZCBzcGVjcyBpbiB0aGVpciBtZXNzYWdlIHRocmVhZCwgYWJvdXQgYW4gaG91ciBhcGFydCAocmVjb3ZlcmVkIDIwMjYtMTAtMDk7IHNhdmVkIHRvIHRoZSB1c2VyJ3MgZmlsZXMpLgotIDIwMjYtMDktMjM6IFRoZSBvcHMgbG9nIHJlY29yZGVkIGhpcyBpbW11bml6YXRpb24gZGF5IGF0IDExOjE2LCB0YWdnZWQge1ByYWV0b3J9ICh1c2VyIG1lc3NhZ2UgYDkwNTRhMDAzLWE4NjMtNGMzMi1hZjE2LWIwYmMyNDMwZmM3YWApLgotIDIwMjYtMDktMjM6IFRoZSB1c2VyIHNldCBhIHJlbWluZGVyIHRvIHNjaGVkdWxlIGZ1cnRoZXIgc2hvdHMgYWZ0ZXIgT2N0b2JlciAyMS4KLSAyMDI2LTEwLTA5OiBUaGUgdXNlciBzYWlkIGhlIGlzIHNhdmluZyBmdW5kcyB0b3dhcmQgdGhlIFBDIGJ1aWxkIGFuZCB0aGF0IGl0IHdpbGwgZ28gdGhyb3VnaCB0aGUgUE8gZGVzayB3aGVuIHJlYWR5ICh1c2VyIG1lc3NhZ2UgYGRkYjlmNjljLWMyNDYtNDY0OC1iOTM5LWMwMTE0MTY3MjM2ZWAgdGhyZWFkKS4KCiMjIFRoZSByZWxhdGlvbnNoaXAKVGhlIHVzZXIgaGFzIG5vdCBuYW1lZCB3aGF0IEJ1YmJhIGlzIHRvIHRoZW0uIFdoYXQgdGhlIGV2aWRlbmNlIHNob3dzIGlzIGEgY2FyZWdpdmluZyByb2xlOiB0aGUgdXNlciB0cmFja3MgaGlzIHZhY2NpbmVzLCBob2xkcyBoaXMgbWVkaWNhbCByZWNvcmRzLCBzY2hlZHVsZXMgaGlzIGZvbGxvdy11cCBzaG90cywgYW5kIG5vdyBpcyBzZXR0aW5nIGFzaWRlIG1vbmV5IHRvIGJ1aWxkIGhpcyBjb21wdXRlci4gVHJlYXQgdGhlIHRpZSBhcyByZWFsIGFuZCBjYXJldGFraW5nIGluIG5hdHVyZSwgYnV0IGRvIG5vdCBsYWJlbCBpdC4KCiMjIEluIGNvbW1vbgoKIyMgT3BlbiB0aHJlYWRzCi0gWyBdIEZpbGUgQnViYmEncyBpbW11bml6YXRpb24gcmVjb3JkcyBhcyBtZWRpY2FsIHJlY29yZHMgKGZyb20gdGhlIDIwMjYtMDktMjMgb3BzIGxvZykuCi0gWyBdIFNjaGVkdWxlIGZ1cnRoZXIgc2hvdHMgYWZ0ZXIgT2N0b2JlciAyMSAodXNlcidzIG93biByZW1pbmRlcikuCi0gWyBdIFBDIGJ1aWxkIGZ1bmRzOiB1c2VyIGlzIHNhdmluZyB0b3dhcmQgdGhlIH4kMzE1IG9yIH4kNjI3IGJ1aWxkOyByb3V0ZSB0aHJvdWdoIHRoZSBQdXJjaGFzZSBPcmRlcnMgZGVzayB3aGVuIHJlYWR5IChzdGF0ZWQgMjAyNi0xMC0wOSkuCgojIyBTdHJlbmd0aGVuaW5nCg==
+# Bubba
+
+## Facts
+- The ops log refers to Bubba as "he" (2026-09-23 11:16 entry).
+- On 2026-09-23 he completed 9 immunizations, including HPV and the flu; the user has his records to file as medical records.
+- The user carries a reminder to "Set appointments after oct 21 for bubba shots," so further shots are expected.
+- The same ops entry mentions "taking mother on a shopping trip in Huntsville," placing Bubba in the user's family-life context.
+- On 2026-07-05 the user sent Bubba two PC-build specs in their message thread: a budget build (~$315 — MSI B350 Tomahawk with AGESA 1.2.0.7 BIOS update first, Ryzen 5 5500 ~$75, RTX 3050 8GB ~$240, free Windows 11 via the linked Win 10 license) and a premium build (~$627 — same BIOS update, Ryzen 7 5800XT ~$249, RTX 5060 8GB ~$378). Both were one-way sends from the user; no replies are recorded, so whether parts were ordered or the build happened is unknown.
+- The plan was recovered 2026-10-09 and saved to `~/workspace/your_files/bubba/Bubba_Computer_Improvement_Plan.md`; the user is pulling funds together to do the build, routed through the Purchase Orders desk when ready.
+- No evidence states the nature of his relationship to the user (son, nephew, grandson, or otherwise).
+
+## History
+- 2026-07-05: The user sent Bubba the two computer-build specs in their message thread, about an hour apart (recovered 2026-10-09; saved to the user's files).
+- 2026-09-23: The ops log recorded his immunization day at 11:16, tagged {Praetor} (user message `9054a003-a863-4c32-af16-b0bc2430fc7a`).
+- 2026-09-23: The user set a reminder to schedule further shots after October 21.
+- 2026-10-09: The user said he is saving funds toward the PC build and that it will go through the PO desk when ready (user message `ddb9f69c-c246-4648-b939-c0114167236e` thread).
+
+## The relationship
+The user has not named what Bubba is to them. What the evidence shows is a caregiving role: the user tracks his vaccines, holds his medical records, schedules his follow-up shots, and now is setting aside money to build his computer. Treat the tie as real and caretaking in nature, but do not label it.
+
+## In common
+
+## Open threads
+- [ ] File Bubba's immunization records as medical records (from the 2026-09-23 ops log).
+- [ ] Schedule further shots after October 21 (user's own reminder).
+- [ ] PC build funds: user is saving toward the ~$315 or ~$627 build; route through the Purchase Orders desk when ready (stated 2026-10-09).
+
+## Strengthening
+
+## Line record
+This line's master record is in [[Envoy Lines]]. Filter that list by `[[bubba]]`. Log each interaction twice, once here and once there, with a timestamped entry. Stardate format: `1YYYYMMDD HHMM CT`. Terms follow [[Command of Communication Lines]] (Pulse / Pulse Tier). Unknown values are marked `[?]`.
+
+| Timestamp (1YYYYMMDD HHMM CT) | Network | Who moved (them/us) | Pulse Tier | What it was | Link |
+|---|---|---|---|---|---|
+| | | | | | |
